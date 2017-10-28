@@ -4,3 +4,16 @@ data
 models
 *.swp
 *.p
+
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.pyc
+*.plb
+*.pdb
+
+.ipynb_checkpoints
+.idea/
